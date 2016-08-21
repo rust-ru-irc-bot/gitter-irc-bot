@@ -7,15 +7,5 @@
     "irc",
     "synchronization",
     "bot"
-  ],
-  "env": {
-    "GITTERBOT_APIKEY": "get it from https://developer.gitter.im/apps",
-    "GITTERBOT_GITTER_ROOM": "user/room",
-    "GITTERBOT_IRC_CHANNEL": "#",
-    "GITTERBOT_IRC_NICK": "",
-    "GITTERBOT_IRC_SERVER": "irc.freenode.net",
-    "GITTERBOT_IRC_ADMIN": "<your irc handle>",
-    "GITTERBOT_IRC_OPTS": "{}",
-    "HEROKU_URL": "http://<appname>.herokuapp.com"
-  }
+  ]
 }
